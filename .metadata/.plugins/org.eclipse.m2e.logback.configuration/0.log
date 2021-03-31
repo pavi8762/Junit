@@ -60,3 +60,148 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2021-03-30 21:44:02,397 [Worker-1: Launching JunitExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
 2021-03-30 21:44:02,398 [Worker-1: Launching JunitExample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-03-30 21:44:02,398 [Worker-1: Launching JunitExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 21:57:17,746 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 21:57:17,747 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 21:57:17,751 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 21:57:17,751 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:06:39,253 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:06:39,254 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:06:39,254 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:06:39,255 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:06:47,142 [Worker-18: Launching AssertionExample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:06:47,142 [Worker-18: Launching AssertionExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:06:47,144 [Worker-18: Launching AssertionExample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:06:47,145 [Worker-18: Launching AssertionExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:09:22,754 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:09:22,755 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:09:22,755 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:09:22,756 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:09:59,076 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:09:59,076 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:09:59,081 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:09:59,081 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:11:51,863 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:11:51,864 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:11:51,865 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:11:51,865 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:11:59,547 [Worker-1: Launching JunitExample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:11:59,547 [Worker-1: Launching JunitExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:11:59,549 [Worker-1: Launching JunitExample] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:11:59,549 [Worker-1: Launching JunitExample] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:15:41,457 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:15:41,457 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:15:41,459 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:15:41,459 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:16:37,162 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:16:37,162 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:16:37,164 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:16:37,164 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:19:54,357 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:19:54,358 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:19:54,359 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:19:54,359 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:20:52,805 [Worker-23: Launching DisabledTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:20:52,806 [Worker-23: Launching DisabledTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:20:52,809 [Worker-23: Launching DisabledTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:20:52,809 [Worker-23: Launching DisabledTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:27:38,607 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:27:38,607 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:27:38,608 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:27:38,609 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:31:50,581 [Worker-18: Launching AssumptionEx] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:31:50,582 [Worker-18: Launching AssumptionEx] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:31:50,585 [Worker-18: Launching AssumptionEx] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:31:50,585 [Worker-18: Launching AssumptionEx] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-30 22:41:19,523 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:41:19,523 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-30 22:41:19,524 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-30 22:41:19,525 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:16:37,198 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-31 13:16:40,068 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:16:40,071 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:16:40,074 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:16:40,074 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:24:02,238 [Worker-7: Resolving model org.eclipse.recommenders:index::zip:0.0.0] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2021-03-31 13:34:44,019 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:34:44,020 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:34:44,022 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:34:44,022 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:39:48,739 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:39:48,740 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:39:48,756 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:39:48,756 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:44:54,958 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:44:54,963 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:44:54,964 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:44:54,965 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:47:20,589 [Worker-23: Launching TestInterface] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:47:20,590 [Worker-23: Launching TestInterface] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:47:20,591 [Worker-23: Launching TestInterface] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:47:20,592 [Worker-23: Launching TestInterface] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:51:52,865 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:51:52,866 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:51:52,867 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:51:52,867 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:52:23,715 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:52:23,715 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:52:23,716 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:52:23,717 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:52:33,900 [Worker-28: Launching TestInterface] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:52:33,901 [Worker-28: Launching TestInterface] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:52:33,902 [Worker-28: Launching TestInterface] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:52:33,902 [Worker-28: Launching TestInterface] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:53:06,816 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:53:06,816 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:53:06,819 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:53:06,819 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:53:17,439 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:53:17,439 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:53:17,440 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:53:17,440 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:56:51,980 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:56:51,980 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:56:51,983 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:56:51,984 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 13:57:57,308 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:57:57,310 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 13:57:57,311 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 13:57:57,312 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 14:06:59,109 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 14:06:59,109 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 14:06:59,111 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 14:06:59,111 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 14:07:27,704 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 14:07:27,705 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 14:07:27,706 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 14:07:27,706 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 14:10:26,856 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 14:10:26,857 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 14:10:26,858 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 14:10:26,858 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 14:11:00,209 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 14:11:00,209 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 14:11:00,210 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 14:11:00,211 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
+2021-03-31 14:12:52,228 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 14:12:52,229 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/main/resources
+2021-03-31 14:12:52,231 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-31 14:12:52,231 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vachalapgmail/Junit/JunitExample/src/test/resources
