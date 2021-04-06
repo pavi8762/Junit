@@ -5,6 +5,13 @@
 <version>0.0.1-SNAPSHOT</version>
 <dependencies>
 
+<dependency>
+	    <groupId>org.junit.platform</groupId>
+	    <artifactId>junit-platform-runner</artifactId>
+	    <version>1.7.0</version>
+	</dependency>
+
+
 <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/selenium-jupiter -->
 <dependency>
         <groupId>io.github.bonigarcia</groupId>

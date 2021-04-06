@@ -1,10 +1,12 @@
 package test;
 
+import java.time.LocalDate;
 import java.time.Month;
 import java.util.stream.Stream;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.converter.ConvertWith;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.EnumSource;
 import org.junit.jupiter.params.provider.MethodSource;
@@ -61,6 +63,15 @@ static Stream<String> DPMethod(){
 	
 	
 }
+
+@ParameterizedTest
+@CsvSource({"2018/12/25,2018", "2019/02/11,2019"})
+void getYear_ShouldWorkAsExpected(@ConvertWith(DateConverter.class) LocalDate date, int expected) {
+		Assertions.assertEquals(expected, date.getYear());
+	}
+
+
+
 
 
 
