@@ -7,7 +7,7 @@ public class ClassATest {
 	
 	@Test
     public void testLucky() {
-        Assertions.assertEquals(8, ClassA.getLucky());
+        Assertions.assertEquals(7, ClassA.getLucky());
     }
 
 
